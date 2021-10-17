@@ -26,7 +26,7 @@ plugins {
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "AlabaAclydiem_FinancePro"
+    property "sonar.projectKey", "AlabaAclydiem_Anotherversion"
     property "sonar.organization", "alabaaclydiem"
     property "sonar.host.url", "https://sonarcloud.io"
   }
