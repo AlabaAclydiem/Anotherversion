@@ -1,0 +1,21 @@
+com/example/anotherversion/CheckAns.java
+ com.example.anotherversion.CheckAns
+ com.example.anotherversion.CheckAns$1
+ com.example.anotherversion.CheckAns$2
+com/example/anotherversion/EnterPassword.java
+ com.example.anotherversion.EnterPassword
+ com.example.anotherversion.EnterPassword$1
+com/example/anotherversion/BuildConfig.java
+ com.example.anotherversion.BuildConfig
+com/example/anotherversion/SplashActivity.java
+ com.example.anotherversion.SplashActivity
+ com.example.anotherversion.SplashActivity$1
+com/example/anotherversion/ControlQuestions.java
+ com.example.anotherversion.ControlQuestions
+com/example/anotherversion/MainActivity.java
+ com.example.anotherversion.MainActivity
+com/example/anotherversion/DbHelper.java
+ com.example.anotherversion.DbHelper
+com/example/anotherversion/CreatePassword.java
+ com.example.anotherversion.CreatePassword
+ com.example.anotherversion.CreatePassword$1

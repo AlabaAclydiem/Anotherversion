@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finance PRO</string>
+    <string name="quest1">В каком городе вы родились?</string>
+    <string name="quest2">Как зовут преподавателя ОПИ?</string>
+    <string name="process">Загрузка...</string>
+    <string name="text1">Сброс пароля</string>
+    <string name="text2">Вы уверены, что хотите сбросить пароль?</string>
+
+</resources>
